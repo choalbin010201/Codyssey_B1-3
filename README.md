@@ -195,15 +195,11 @@ Gmail - Send Email → 일반 알림
 
 ### Zapier 구현
 
-![Zapier 긴급 Zap 구성](project01_tool_comparison/screenshots/zapier_workflow_urgent.png)
 
-![Zapier 긴급 실행 결과](project01_tool_comparison/screenshots/zapier_result_urgent.png)
 
 ![Zapier 긴급 Gmail 알림](project01_tool_comparison/screenshots/zapier_gmail_urgent.png)
 
-![Zapier 일반 Zap 구성](project01_tool_comparison/screenshots/zapier_workflow_normal.png)
 
-![Zapier 일반 실행 결과](project01_tool_comparison/screenshots/zapier_result_normal.png)
 
 ![Zapier 일반 Gmail 알림](project01_tool_comparison/screenshots/zapier_gmail_normal.png)
 
